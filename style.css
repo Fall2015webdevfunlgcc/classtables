@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+/*body {
+  color: grey;
+  background-color: #fff;
+}*/
+>>>>>>> origin/master
 
 table {
   border: 1px solid #5c743d;
@@ -5,16 +12,30 @@ table {
   border-spacing: 0;
   margin: auto;
 }
+<<<<<<< HEAD
 td, th {
   padding: 5px;
   font-family: Arial, sans-serif;
 }
+=======
+
+td, th {
+  padding: 5px;
+  font-family: Arial, sans-serif;
+  border: 0;
+}
+
+>>>>>>> origin/master
 caption {
   font-family: Verdana, sans-serif;
   font-size: 1.2em;
   font-weight: bold;
   padding-bottom: 5px;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/master
 tr:nth-of-type(even){
   background-color: #eaeaea;
 }
