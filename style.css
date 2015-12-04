@@ -1,7 +1,19 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+/*body {
+  color: grey;
+  background-color: #fff;
+}*/
+>>>>>>> origin/master
+
+>>>>>>> origin/master
 table {
   border: 1px solid #5c743d;
   width: 600px;
   border-spacing: 0;
+<<<<<<< HEAD
 <<<<<<< HEAD
   margin:auto;
 }
@@ -31,13 +43,41 @@ td, th {
   padding: 5px;
   font-family: arial, sans-serif;
   }
+=======
+  margin: auto;
+}
+<<<<<<< HEAD
+td, th {
+  padding: 5px;
+  font-family: Arial, sans-serif;
+}
+=======
+
+td, th {
+  padding: 5px;
+  font-family: Arial, sans-serif;
+  border: 0;
+}
+
+>>>>>>> origin/master
+>>>>>>> origin/master
 caption {
   font-family: Verdana, sans-serif;
   font-size: 1.2em;
   font-weight: bold;
   padding-bottom: 5px;
 }
+<<<<<<< HEAD
 tr:nth-last-of-type(even) {
   background-color: #eaeaea;
 }
 >>>>>>> newbranch
+=======
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/master
+tr:nth-of-type(even){
+  background-color: #eaeaea;
+}
+>>>>>>> origin/master
